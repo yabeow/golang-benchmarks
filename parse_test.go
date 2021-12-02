@@ -1,5 +1,5 @@
 // Package parse benchmarks parsing.
-package parse
+package main
 
 import (
 	"strconv"

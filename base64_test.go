@@ -1,7 +1,7 @@
 // Package base64 benchmarks some base64 functions.
 // On all tested systems it's faster to decode a
 // base64 encoded string instead of a check via regex.
-package base64
+package main
 
 import (
 	"encoding/base64"

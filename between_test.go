@@ -1,13 +1,14 @@
 // Package between compares the performance of checking
 // if a number is between two other numbers via regex
 // and by parsing the number as integers.
-package between
+package main
 
 import (
 	"regexp"
+	"testing"
+
 	"simonwaldherr.de/go/golibs/as"
 	"simonwaldherr.de/go/ranger"
-	"testing"
 )
 
 func BenchmarkNumberRegEx(b *testing.B) {

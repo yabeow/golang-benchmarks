@@ -1,6 +1,6 @@
 // Package regexp benchmarks the performance of a pre-compiled regexp match
 // a non-pre-compiled match and JIT-cached-compilation via golibs: https://simonwaldherr.de/go/golibs
-package regexp
+package main
 
 import (
 	"regexp"

@@ -1,5 +1,5 @@
 // Package foreach benchmarks ranging over slices and maps.
-package foreach
+package main
 
 import (
 	"testing"

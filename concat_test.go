@@ -3,7 +3,7 @@
 // Instead of just concatenating a string to another string
 // it is also possible (and much faster) to use
 // a bytes buffer.
-package concat
+package main
 
 import (
 	"bytes"

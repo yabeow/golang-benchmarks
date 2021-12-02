@@ -1,5 +1,5 @@
 // Package math compares the speed of various mathematical operations.
-package math
+package main
 
 import (
 	"sync"

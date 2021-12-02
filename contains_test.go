@@ -1,6 +1,6 @@
 // Package contains tests various ways of checking
 // if a string is contained in another string.
-package contains
+package main
 
 import (
 	"bytes"
